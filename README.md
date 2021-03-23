@@ -1,3 +1,3 @@
-<h5 align="center">
+<h3 align="center">
   A ideia central é ensinar de maneira didática e abstrata o que é, e para que serve o Git & GitHub.
-</h5>
+</h3>
