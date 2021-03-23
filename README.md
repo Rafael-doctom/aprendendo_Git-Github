@@ -11,10 +11,6 @@
 </h4>
 
 <h4>
-  GitFlow
-</h4>
-
-<h4>
   Conclusão
 </h4>
 
